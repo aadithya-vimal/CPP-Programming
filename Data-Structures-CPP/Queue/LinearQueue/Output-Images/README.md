@@ -1,4 +1,4 @@
-# Output Images of Stack Implementation in C
+# Output Images of Linear Queue Implementation in C
 
 ## Push operation:-
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/fe82a940-3a99-4f8c-8fc4-3a0952a5304e" />
